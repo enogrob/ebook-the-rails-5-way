@@ -28,7 +28,7 @@ Chapter 1: Rails Configuration and Environments 1
 [x] 1.2 Startup Scripts 10
 [x] 1.3 Default Initializers 12
 [x] 1.4 Other Common Initializers 19
-[ ] 1.5 Spring Application Preloader 21
+[x] 1.5 Spring Application Preloader 21
 [ ] 1.6 Development Mode 22
 [ ] 1.7 Test Mode 27
 [ ] 1.8 Production Mode 29
