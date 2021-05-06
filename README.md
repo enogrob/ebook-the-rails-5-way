@@ -36,7 +36,7 @@ Chapter 1: Rails Configuration and Environments 1
 [x] 1.7 Test Mode 27
 [x] 1.8 Production Mode 29
 [x] 1.9 Configuring a Database 32
-[ ] 1.10 Configuring Application Secrets 33
+[x] 1.10 Configuring Application Secrets 33
 [ ] 1.11 Logging 34
 [ ] 1.12 Conclusion 41
 
